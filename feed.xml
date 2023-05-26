@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sinon.JS</title>
+    <link>https://www.sinonjs.org</link>
+    <description>A JavaScript mocking library that makes it easy to test your code.</description>
+    <atom:link href="https://www.sinonjs.org/feed.xml" rel="self" type="application/rss+xml" />
+    <generator>Sinon.JS</generator>
+    <language>en-US</language>
+    <pubDate>2023-05-25T21:27:22Z</pubDate>
+    <lastBuildDate>2023-05-25T21:27:22Z</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>Sinon.JS 4.4.0 Released</title>
+      <link>https://www.sinonjs.org/blog/2023/05/25/sinon-4-4-0-released</link>
+      <description>Sinon.JS 4.4.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2023-05-25T21:27:22Z</pubDate>
+      <guid>https://www.sinonjs.org/blog/2023/05/25/sinon-4-4-0-released</guid>
+    </item>
+    <item>
+      <title>Sinon.JS 4.3.0 Released</title>
+      <link>https://www.sinonjs.org/blog/2023/03/08/sinon-4-3-0-released</link>
+      <description>Sinon.JS 4.3.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2023-03-08T21:27:22Z</pubDate>
+      <guid>https://www.sinonjs.org/blog/2023/03/08/sinon-4-3-0-released</guid>
+    </item>
+    <item>
+      <title>Sinon.JS 4.2.0 Released</title>
+      <link>https://www.sinonjs.org/blog/2022/12/15/sinon-4-2-0-released</link>
+      <description>Sinon.JS 4.2.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2022-12-15T21:27:22Z</pubDate>
+      <guid>https://www.sinonjs.org/blog/2022/12/15/sinon-4-2-0-released</guid>
+    </item>
+    <item>
+      <title>Sinon.JS 4.1.0 Released</title>
+      <link>https://www.sinonjs.org/blog/2022/09/15/sinon-4-1-0-released</link>
+      <description>Sinon.JS 4.1.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2022-09-15T21:27:22Z</pubDate>
+      <guid>https://www.sinonjs.org/blog/2022/09/15/sinon-4-1-0-released</guid>
+    </item>
+  </channel>
+</rss>
